@@ -13,6 +13,9 @@ body{
     width: 10%;
 
 }
+.img-prod{
+    height: 297px !important;
+}
 
 #menu{
     background-color:var(--encabezado) !important;
@@ -29,7 +32,7 @@ body{
 }
 
 .alto-img{
-    height: 610px !important;
+    height: 710px !important;
     padding-top: 75px !important;
 }
 
